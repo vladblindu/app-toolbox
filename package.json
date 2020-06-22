@@ -1,0 +1,10 @@
+{
+  "name": "app-toolbox",
+  "version": "1.0.0",
+  "description": "All in one (authentication, http requests, error norrmalizing)",
+  "main": "dist.index",
+  "repository": "https://github.com/vladblindu/app-toolbox",
+  "author": "Vlad Blindu",
+  "license": "MIT",
+  "private": false
+}
